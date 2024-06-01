@@ -1,4 +1,3 @@
-
 export const findIndex = (array, id) => {
     for (let i = 0; i < array.length; i++) {
       if (array[i].room_id == id) {
@@ -7,4 +6,3 @@ export const findIndex = (array, id) => {
     }
     return -1;
   };
-  
