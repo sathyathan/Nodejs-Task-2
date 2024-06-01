@@ -6,6 +6,5 @@ List Booked Rooms: View a list of all booked rooms along with customer details a
 List Customers: Get insights into all customers who have booked rooms, including their booking history.
 Delete Room: Remove unnecessary rooms from the system
 
-
-
 postman documentation link:https://documenter.getpostman.com/view/35217393/2sA3Qwb9PE
+
